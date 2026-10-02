@@ -1,0 +1,6 @@
+# 排除虛擬環境資料夾
+Lib/
+Include/
+Scripts/
+pyvenv.cfg
+p_ieee/
